@@ -1,4 +1,1 @@
-# DCANet
-The author is currently working on the extension work of this paper.
-The code for "DCANet: deep context attention network for automatic polyp segmentation" will be uploaded together when the extension being accepted.
-The source code will be released soon. However, the code can also be requested through email. 
+The author is currently working on the extension work of this paper. The code for "DCANet: deep context attention network for automatic polyp segmentation" will be uploaded together after the acceptance of the extension work. However, the code can be requested through email (zaka10494@gmail.com,zaka494@mail.ustc.edu.cn) as well. 
