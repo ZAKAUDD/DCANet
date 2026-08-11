@@ -401,7 +401,7 @@ The Visual Computer, 39(11), 5513–5525.
 
 ## 🙏 Acknowledgements
 
-We thank the authors of the original DCANet paper and the researchers who developed and publicly released the datasets used for automatic polyp segmentation research.
+This work was supported in part by the National Natural Science Foundation of China (Nos. 71991464/71991460 and 61877056).
 
 This repository is intended for **research and educational purposes**.
 
